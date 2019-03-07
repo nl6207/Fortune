@@ -1,0 +1,21 @@
+
+button{
+    margin:20px;
+    font-family: 'Lobster', cursive;
+}
+.main{
+    border:10px cyan dotted;
+    margin:auto;
+    width:600px;
+    padding:20px;
+     background-image:url(https://us.123rf.com/450wm/phochi1981/phochi19811710/phochi1981171000053/87818163-stock-vector-bokeh-blue-and-white-sparkling-lights-festive-background-with-texture-abstract-christmas-twinkled-br.jpg?ver=6);
+}
+.answer{
+    display:none;
+    border:10px cyan dotted;
+}
+.space{margin:20px;}
+input{font-family: 'Lobster', cursive;}
+h1{font-family: 'Srisakdi', cursive;}
+h2{font-family: 'Srisakdi', cursive;}
+h3{font-family: 'Indie Flower', cursive;}
